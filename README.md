@@ -4,7 +4,7 @@ Pansiyon Uygulaması, SQL Server veritabanı ve C# kullanılarak geliştirilmiş
 #Projeye Ait Ekran Görüntüleri
 
 ![ana menü](https://user-images.githubusercontent.com/77548014/119060204-67c67300-b9da-11eb-96fe-855f82938f7c.png)
-![Yeni Müşteri ](https://user-images.githubusercontent.com/77548014/119061577-5a5eb800-b9dd-11eb-8bc3-c274dfaf47f6.png)
+![Yeni Müşteri ](https://user-images.githubusercontent.com/77548014/119062397-62b7f280-b9df-11eb-8284-2bfa0f17cef4.png)
 ![Müşteri Bilgileri](https://user-images.githubusercontent.com/77548014/119061618-6cd8f180-b9dd-11eb-8acd-53284f18da76.png)
 ![Gazete](https://user-images.githubusercontent.com/77548014/119061733-c04b3f80-b9dd-11eb-9d13-56e4a9f6744d.png)
 ![gelir gider](https://user-images.githubusercontent.com/77548014/119061735-c0e3d600-b9dd-11eb-9119-5e3a6db60496.png)
