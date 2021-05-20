@@ -1,2 +1,2 @@
 # PansiyonUygulamasi
-Pansiyon Uygulaması, SQL Server veritabanı ve c# kullanılarak geliştirilmiş bir otomasyon projesidir.
+Pansiyon Uygulaması, SQL Server veritabanı ve C# kullanılarak geliştirilmiş bir otomasyon projesidir.
